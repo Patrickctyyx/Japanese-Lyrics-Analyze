@@ -24,8 +24,8 @@
 
 - part of the words
 
-![part of the words](https://note.youdao.com/favicon.ico)
+![part of the words](https://github.com/Patrickctyyx/Japanese-Lyrics-Analyze/blob/master/result.png)
 
 - word cloud
 
-![word cloud](https://note.youdao.com/favicon.ico)
+![word cloud](https://github.com/Patrickctyyx/Japanese-Lyrics-Analyze/blob/master/result.jpg)
