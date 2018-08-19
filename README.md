@@ -2,10 +2,10 @@
 
 ## Utilizations
 
-- word spliter: MeCab
-- dict: mecab-ipadic-neologd
-- lyric & playlist source: NetEase Music
-- word cloud: word cloud python module
+- word spliter: [MeCab Python3](https://github.com/SamuraiT/mecab-python3)
+- dict: [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd)
+- lyric & playlist source: [NetEase Music](https://music.163.com/)
+- word cloud: [word cloud](https://github.com/amueller/word_cloud) python module
 - translator: google trans python module
 
 ## References
